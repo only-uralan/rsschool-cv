@@ -1,1 +1,1 @@
-https://only-uralan.github.io/rsschool-cv/cv
+https://only-uralan.github.io/rsschool-cv/cv.md
